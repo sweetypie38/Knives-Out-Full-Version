@@ -242,4 +242,4 @@ This repository serves as the official landing page for Knives Out. The software
 **Get the most recent version of Knives Out today!**
 
 ---
-**Last updated:** 2026-11-06 01:52:16 UTC
+**Last updated:** 2026-11-06 08:39:47 UTC
